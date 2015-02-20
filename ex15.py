@@ -1,4 +1,4 @@
-# Exercise #13 - Prompting and Passing
+# Exercise #15 - Prompting People
 
 from sys import argv
 
