@@ -4,13 +4,18 @@
 # from sys import argv
 # script, filename = argv
 
+# Prompt for data file name.
 print "Type your filename:"  
 filename = raw_input (">")
+
+# Data file assigned to filename and opened
 txt = open(filename)
 
+# Report back file name
 print "Here's your file %r:" % filename
 print txt.read()
 
+# Request file name again
 print "Type the filename again:"
 file_again = raw_input (">")
 
