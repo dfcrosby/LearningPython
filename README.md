@@ -1,4 +1,4 @@
 # LearningPython
-Learning Python Examples
+Learning Python Examples Repository
 
-[Learning Python the Hard Way] (http://learnpythonthehardway.org/book/)
+[Learning Python the Hard Way (book link)] (http://learnpythonthehardway.org/book/)
